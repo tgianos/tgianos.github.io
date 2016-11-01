@@ -17,6 +17,8 @@ title: Tom Gianos
 email: tom.gianos@github.noreply.com
 description: > # this means to ignore newlines until "baseurl:"
   Personal Blog
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://tgianos.github.io" # the base hostname & protocol for your site
 twitter_username: TomGianos
 github_username: tgianos
 
